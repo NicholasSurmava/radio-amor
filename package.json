@@ -4,7 +4,7 @@
   "description": "My music blog (Spotify)",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/NicholasSurmava/radio-amor/issues"
   },
-  "homepage": "https://github.com/NicholasSurmava/radio-amor#readme"
+  "homepage": "https://github.com/NicholasSurmava/radio-amor#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
