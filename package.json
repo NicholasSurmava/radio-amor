@@ -1,0 +1,27 @@
+{
+  "name": "radio-amor",
+  "version": "1.0.0",
+  "description": "My music blog (Spotify)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NicholasSurmava/radio-amor.git"
+  },
+  "keywords": [
+    "spotify",
+    "node",
+    "express",
+    "ssr",
+    "blog",
+    "music"
+  ],
+  "author": "Nicholas Surmava",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NicholasSurmava/radio-amor/issues"
+  },
+  "homepage": "https://github.com/NicholasSurmava/radio-amor#readme"
+}
